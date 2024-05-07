@@ -1,5 +1,4 @@
 ### Hi, I'm Hongri Ma 👋
-
 <!--
 **Eric3133/Eric3133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +15,6 @@ Here are some ideas to get you started:
 -->
 ## 👨 About me
 <br>
-<br>
-
 As a Junior Full-Stack Developer with a background in Mechanical Engineering(master's degree), I recently graduated from Le Wagon's intensive Web Development Bootcamp, acquiring extensive skills in front-end and back-end development including Ruby, Ruby on Rails, Javascript, HTML, CSS, Bootstrap, Git, SQL, PostgreSQL, GitHub and Heroku.
 
 I'm currently working to improve my skills in React.js, Vue.js, Ruby, and Ruby on Rails.
