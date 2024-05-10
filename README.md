@@ -23,7 +23,7 @@ Don't hesitate to contact me at any time！ :-)
 
 ## 📞 How to reach me
 contact with me on LinkedIn: https://www.linkedin.com/in/hongri-ma
-              or 
+          
 
 ## 🚙 Language & Tools
 ![image](https://github.com/Eric3133/Eric3133/assets/142070343/201907cf-8afd-4f00-aca0-42ebba3a92db)
